@@ -1,11 +1,15 @@
-# Ouest-France/SIP code-conventions
+# Ouest-France/SIPA code-conventions
 
 ## Languages (todo)
 
 - [Java](/java)
 - [PHP](/php)
 - [JavaScript](/javascript)
-- [Css](/css)
+- [Css](/css-conventions)
+
+## Global
+
+- [Editor config](/editor-conventions)
 
 ## Philosophy
 
